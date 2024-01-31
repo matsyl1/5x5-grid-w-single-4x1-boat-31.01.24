@@ -1,1 +1,1 @@
-x
+5x5 grid with a single 4x1 boat. Using four adjacency functions and one same axis function to generate random coordinates that form a single 4x1 boat placed within the grid. No user interaction (building up to fully functional/playable game). Output is a 5x5 grid with four coordinates "4,4,4,4" forming and showing the position of the boat.
